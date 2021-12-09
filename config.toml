@@ -1,0 +1,73 @@
+title = "NB ISC2"
+baseURL = "https://example.com"
+languageCode = "en-us"
+theme = "ananke"
+resourceDir = "../resources"
+customCSS = ["/style.css"]
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "NBC Home"
+    weight = 1
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # background_color_class = "bg-blue"
+  featured_image = "/images/nb-header.png"
+  recent_posts_number = 2
+  cover_dimming_class="bg-black-20"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
+
+[menu]
+[[menu.main]]
+  identifier = 'posts'
+  name = 'News'
+  title = 'News'
+  url = '/posts/'
+  weight = -110
+[[menu.main]]
+  identifier = 'job'
+  name = 'Job Board'
+  title = 'Jobz'
+  url = '/job/'
+  weight = -109
+[[menu.main]]
+  identifier = "meetings"
+  name = 'Meetings & Events'
+  url = '/meetings'
+  weight = -108
+[[menu.main]]
+  identifier = 'sponsors'
+  name = 'Sponsorship'
+  url = '/sponsors/'
+  weight = -108
+[[menu.main]]
+  identifier = 'membership'
+  name = 'Membership'
+  url = '/membership/'
+  weight = -108
+[[menu.main]]
+  identifier='about-us'
+  name = 'About Us'
+  title = 'About Us'
+  url = '/about-us/'
+  weight = -1

@@ -1,5 +1,5 @@
 title = "NB ISC2"
-baseURL = "https://example.com"
+#baseURL = "https://storage.googleapis.com/test_static_site/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
@@ -17,11 +17,6 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
 [params]
   author = ""
   favicon = ""
@@ -35,39 +30,39 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/NBIsc2:"
 
 [menu]
-[[menu.main]]
-  identifier = 'posts'
-  name = 'News'
-  title = 'News'
-  url = '/posts/'
-  weight = -110
 [[menu.main]]
   identifier = 'job'
   name = 'Job Board'
   title = 'Jobz'
   url = '/job/'
-  weight = -109
+  weight = -108
 [[menu.main]]
   identifier = "meetings"
   name = 'Meetings & Events'
   url = '/meetings'
-  weight = -108
+  weight = -110
 [[menu.main]]
   identifier = 'sponsors'
   name = 'Sponsorship'
   url = '/sponsors/'
-  weight = -108
+  weight = -107
 [[menu.main]]
   identifier = 'membership'
   name = 'Membership'
   url = '/membership/'
-  weight = -108
+  weight = -109
 [[menu.main]]
   identifier='about-us'
   name = 'About Us'
   title = 'About Us'
   url = '/about-us/'
   weight = -1
+
+[deployment]
+
+[[deployment.targets]]
+name="gcs"
+URL="gs://test_static_site"

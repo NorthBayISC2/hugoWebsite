@@ -22,7 +22,7 @@ School Outreach: Working with local high schools to develop Cybersecurity module
 
 Tech Mock Job Interview: 
 
-## Our ACTIVITIES
+## Our Activities
 Establish mid-term programs for membership -- including criteria, regular communication, and recruiting strategies.
 
 Provide guidance around secure slack communication over slack and other avenues
@@ -37,10 +37,6 @@ Provide networking events during the (ISC)²®  NBC monthly meetings
 
 Our Operations
 There is no cost to join (ISC)²®  NBC (North Bay Chapter), and the short-term plan is to have no insurable assets. This is to promote growth of the organization and recognize the impact fires and SIP measures have had on the North Bay.
-
-We could assess in the future having a $xx  for a annual membership
-
-Communication with membership will use slack. Long term, we may look at sponsorship from security or local area businesses.
 
 ## About (ISC)²
 (ISC)²® is the largest not-for-profit membership body of certified information security professionals worldwide, with more than 130,000 members in over 135 countries. Globally recognized as the Gold Standard, (ISC)² issues the Certified Information Systems Security Professional (CISSP®) and related concentrations, as well as the Certified Secure Software Lifecycle Professional (CSSLP®), Certified Authorization Professional (CAP®), and Systems Security Certified Practitioner (SSCP®) credentials to qualifying candidates.

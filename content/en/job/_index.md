@@ -11,14 +11,14 @@ title="Job Board"
 
 1. **Cloud Security Architect** - Are you a senior cloud security architect that like to lead our Security Technical Architecture Round Table (START)?
 
-Send your request to Job Board 
+Send your request to [Job Board](<mailto:northbayisc2@gmail.com?subject=Job%20Board%3AInternship>) 
 
 ### Internship
 We are committed to partner with colleges to help students find internship opportunities in cybersecurity field. 
 
 Submit your resume today to see which internship positions best match for you! If you need help building your resume and your Linkedin profile, send your initial CV and we will help you.
 
-Send to: Job Board 
+Send to: [Job Board](<mailto:northbayisc2@gmail.com?subject=Job%20Board%3AResume%20Review>)
 
 ### Mentoring & Coaching 
 Cybersecurity is a broad field that encompasses many disciplines. The skills you need to be successful will vary by position and the career path you choose. Here are some of the typical positions found in companies today. Let us know what path interests you, and we will help you figure out the skills you need to build.

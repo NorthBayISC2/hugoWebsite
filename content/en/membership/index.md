@@ -11,7 +11,7 @@ Our vision is to become an avenue for current and future Security Professionals 
 
 If you wish to join our chapter complete the following:
 
-North Bay Chapter Membership Application Form
+[North Bay Chapter Membership Application Form](https://docs.google.com/forms/d/e/1FAIpQLSedxS082pLfyfeD2_1UYq9wFWKWSEu_SgBMCimjpMGVRMrACg/viewform?usp=sf_link)
 
 [(ISC)2 Chapter Guidelines](chapter_guidelines.pdf) 
 

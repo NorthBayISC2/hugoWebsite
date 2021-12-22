@@ -10,7 +10,7 @@ Practice job interview with ISC2 NBC security professional interviewers from top
 
 How Does it Work?
 
-1. Submit a request here
+1. Submit a request [here](https://docs.google.com/forms/d/e/1FAIpQLScVQOTEP7pUJMu76OViM8LJEr3mhQOjnpz9Qltd2vKnnXe6Cw/viewform?usp=sf_link)
 
 1. Schedule the interview - The board members will review the request, schedule an interviewer based on the provided available time slots, and send you a Zoom calendar invite.
 

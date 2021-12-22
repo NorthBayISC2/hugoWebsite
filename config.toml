@@ -1,5 +1,5 @@
 title = "NB ISC2"
-#baseURL = "https://storage.googleapis.com/test_static_site/"
+baseURL = "https://dmxmax.github.io/testsite/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"

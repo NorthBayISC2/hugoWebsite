@@ -7,13 +7,13 @@ customCSS = ["/style.css"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "NBC Home"
+    title = "North Bay (ISC)²"
     weight = 1
     contentDir = "content/en"
 
@@ -30,8 +30,10 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/NBIsc2:"
-
+url = "https://twitter.com/NorthBayISC2:"
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/company/isc2-northbay-chapter"
 [menu]
 [[menu.main]]
   identifier = 'job'
@@ -66,3 +68,8 @@ url = "https://twitter.com/NBIsc2:"
 [[deployment.targets]]
 name="gcs"
 URL="gs://test_static_site"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -3,26 +3,14 @@ title="Membership"
 kind="home"
 type="section"
 +++
-# Chapter Membership
-Our members consist of (ISC)² credentialed professionals who hold either an SSCP, CAP, CSSLP and/or a CISSP or advanced concentration certification as well as non-credentialed professionals who have an interest in learning and practicing cybersecurity and information technology.
+# Who are North Bay Chapter Members?
+- (ISC)² credentialed professionals who hold either an SSCP, CAP, CSSLP and/or a CISSP or advanced concentration certification.
+- Non-credentialed professionals who have an interest in learning and practicing cybersecurity and information technology.
+- A diverse range of backgrounds and experience
 
-Our chapter program is focused on skills development to help our members learn specific skill sets in order to develop and add value to their work and progress on their career path.
-Our vision is to become an avenue for current and future Security Professionals to grow personally and professionally while supporting North California Communities and others. 
-
-If you wish to join our chapter complete the following:
-
-[North Bay Chapter Membership Application Form](https://docs.google.com/forms/d/e/1FAIpQLSedxS082pLfyfeD2_1UYq9wFWKWSEu_SgBMCimjpMGVRMrACg/viewform?usp=sf_link)
-
-[(ISC)2 Chapter Guidelines](chapter_guidelines.pdf) 
-
-
-
-and send it to our membership team
-
-
-
-### Benefits of Membership 
-
+## Why Become a Member?
+- Grow your skills
+- Learn more about cyber-security from your fellow cyber-security professionals
 - Earn CPEs by participating in professional activities
 - Engage in leadership roles and improve your leadership skills 
 - Participate in speaking events
@@ -31,16 +19,17 @@ and send it to our membership team
 - Assist writing articles on NBC Linkedin Page
 - Volunteer in local community outreach projects (public service) to educate kids and adult about cybersecurity
 - Receive special discounts on (ISC)2 products and programs
-
-
-(ISC)2 offers special discounts to (ISC)2 Chapter members on the following items:
-
-- Promotional merchandise at the (ISC)2 Store
-- (ISC)2 Security Leadership Series events (for non-(ISC)2 members)
-- Special discounts are available on (ISC)2 Education products*
+- Swag! (ISC)2 offers special discounts to (ISC)2 Chapter members on the following items:
+  * Promotional merchandise at the (ISC)2 Store
+  * (ISC)2 Security Leadership Series events (for non-(ISC)2 members)
+  * Special discounts are available on (ISC)2 Education products*
 
 (*inquire with an (ISC)2 Certification Consultant for details)
 
-For More information on (ISC)2 chapters see:
+## How do I join?
 
-[(ISC)2 North Bay Chapter Bylaws](bylaws.pdf)
+Its Easy! Members are expected to follow the [(ISC)² Chapter Guidelines](chapter_guidelines.pdf), so give them a look.
+
+Then, complete a [North Bay Chapter Membership Application Form](https://docs.google.com/forms/d/e/1FAIpQLSedxS082pLfyfeD2_1UYq9wFWKWSEu_SgBMCimjpMGVRMrACg/viewform?usp=sf_link)
+
+For More information on (ISC)2 chapters see the [(ISC)² North Bay Chapter Bylaws](bylaws.pdf)
